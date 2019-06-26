@@ -53,6 +53,8 @@ for i in range(len(input_files)):
 output_files = []
 
 def draw(doc):
+    if not stampAll:
+        doc = doc[0]
     for page in doc:
         box = fitz.Rect(page.rect.width - leftwidth,
                         page.rect.height - 65,
@@ -65,8 +67,6 @@ def draw(doc):
 for f in input_files:
     text = [f"{line_one}", f"{line_two}", f"{line_three} {f[:3]}"]
     doc = fitz.open(f"{input_path}/{f}")
-    if not stampAll:
-        doc = doc[0]
     draw(doc)
     doc.save(f"{f}")
     output_files.append(f)
