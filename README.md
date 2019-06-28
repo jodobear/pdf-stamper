@@ -1,14 +1,9 @@
 # README
 
-PDF stamper binary using Pymupdf library with GUI for linux.
+PDF stamper using Pymupdf library with GUI for linux and windows. You can either stamp the first page or all the pages of the document. If you want a stamp with numbers, you need to have the number as the first three letters of your filename. The number will be printed on line #3 after the text you want.
 
-Within the folder you will find the executable `Pymupdf-batch-incremental-GUI-V.0.5` run that to stamp or multistamp:
+## Linux
+Within the folder you will run the executable `Pymupdf-batch-incremental-GUI-V.0.5`
 
-**stamp** - Stamp all pages of one pdf with corresponding stamp pdf file. Enter full paths to folder of to be stamped files, folder containing stamp files and output folder.
-        Filenames must start with 3 characters corresponding to the stamp filename you want to stamp with.
-        Example Filenames:
-                    To be stamped file: 001-abc.pdf
-                    Stamp file: 001-xyz.pdf
-
-**multistamp** - Stamp all pages of all files with one stamp.pdf. Enter full path to folder containing to be stamped files, full path to stamp FILE and output folder.
-             The stamp file need not have follow the naming convention as described in stamp.
+## Windows
+Just download and run the `pdfstamper_win0.0.exe` file.
