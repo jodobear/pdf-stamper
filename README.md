@@ -1,6 +1,6 @@
 # README
 
-PDF batch stamper with or without numbers for linux and windows. Licensed under GPL v2, (c) Jodobear.
+PDF batch stamper with or without numbers for linux and windows. Licensed under GPL v2.
 
 ## Installation
 
