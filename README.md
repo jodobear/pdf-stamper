@@ -4,7 +4,7 @@ PDF batch stamper with or without numbers for linux and windows. Licensed under 
 
 ## Installation
 
-Download the repository as a zip file and extract the files or clone the repo. You can delete any file if not required, but you are required to keep the LICENSE.txt file.
+Download the repository as a zip file and extract the files or clone the repo. You can delete any file except the LICENSE.txt file while you use the software.
 
 ### Windows
 
