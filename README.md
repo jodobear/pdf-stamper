@@ -6,7 +6,7 @@ PDF batch stamper with or without numbers for linux and windows. Licensed under 
 
 ### Windows
 
-Download the repository as a zip file, extract the files and run either file `pdfStamper_win0.2-en.exe` for English version or `pdfStamper_win0.2-fr.exe` for French version. You can delete any file if not required, but you are required to keep the LICENSE.txt file.
+Download the repository as a zip file, extract the files. In the `Windows` folder run either file `pdfStamper_win0.2-en.exe` for English version or `pdfStamper_win0.2-fr.exe` for French version. You can delete any file if not required, but you are required to keep the LICENSE.txt file.
 
 ### Linux
 
@@ -25,6 +25,14 @@ Provide path to the folder with only the pdf files to be stamped. Do not provide
 ### For Stamp with Numbers
 
 Stamp numbers correspond to first three characters of the document name. For example, a document named `A14-Defence` will be stamped with number `A14`. Optionally, input label (e.g. 'Exhibit No.') in Line 3 to get `Exhibit No. A14`.
+
+## Contribute
+
+If you are having any problems with the software, please open an issue here: <a href="https://github.com/jodobear/pdf-stamper/issues">Issues</a> stating your exact problem, the version in use, your computer setup and steps to reproduce the software. In general, we will be able to resolve the issue quicker with more detail.
+
+To request features, create an issue with the label `enhancement`.
+
+To contribute to the development of the software, submit a pull request.
 
 ## Donate
 
