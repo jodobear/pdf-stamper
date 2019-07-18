@@ -4,13 +4,13 @@ PDF batch stamper with or without numbers for linux and windows. Licensed under 
 
 ## Installation
 
-Download the repository as a zip file and extract the files or clone the repo. You can delete any file except the LICENSE.txt file while you use the software.
-
 ### Windows
 
-In the `Windows` folder run either file `pdfStamper_win0.2-en.exe` for English version or `pdfStamper_win0.2-fr.exe` for French version.
+You can download the latest release at <a href="https://github.com/jodobear/pdf-stamper/releases">Releases</a>
 
 ### Linux
+
+Download the repository as a zip file and extract the files or clone the repo. You can delete any file except the LICENSE.txt file while you use the software.
 
 Inside the `Linux` folder you will find folders `EN` for English version or `FR` for French version. Inside the respective version, run the executable file, viz. `pdfStamper_win0.2-en` or `pdfStamper_win0.2-fr`.
 
