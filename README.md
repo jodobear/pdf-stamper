@@ -8,7 +8,7 @@ PDF batch stamper with or without numbers for linux and windows. Licensed under 
 
 You can download the latest release at <a href="https://github.com/jodobear/pdf-stamper/releases">Releases</a>
 
-### Linux
+### Linux - Coming soon
 
 Download the repository as a zip file and extract the files or clone the repo. You can delete any file except the LICENSE.txt file while you use the software.
 
